@@ -1,5 +1,5 @@
 {
-  "name": "drawerfy",
+  "name": "@rodriguez-facundo/drawerfy",
   "version": "1.0.0",
   "description": "A simple yet exquisite drawer for your cool webapp",
   "main": "index.js",
